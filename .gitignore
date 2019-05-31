@@ -1,0 +1,7 @@
+__pycache__/
+keras-mnist-tutorial-master/
+data/
+.DS_Store
+venv/
+log/
+model/
